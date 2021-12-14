@@ -10,7 +10,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-![NestJs](https://img.shields.io/badge/-NESTJS-090909?style=for-the-badge&logo=nestjs3)
+![NestJs](https://img.shields.io/badge/-NestJS-090909?style=for-the-badge&logo=Nest)
 ![Material UI](https://img.shields.io/badge/Material--UI-090909?style=for-the-badge&logo=material-ui&logoColor=white)
 ### ✉️ Mail me: elizabethspivak99@gmail.com
 ### 🌐 Telegram: https://t.me/goesdoes
