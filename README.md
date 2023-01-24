@@ -13,7 +13,7 @@
 ![NestJs](https://img.shields.io/badge/-NESTJS-090909?style=for-the-badge&logo=nestJs)
 ![Material UI](https://img.shields.io/badge/Material--UI-090909?style=for-the-badge&logo=MUI&logoColor=white)
 ### ✉️ Mail me: elizabethspivak99@gmail.com
-### 🌐 Telegram: https://t.me/goesdoes
+### 🌐 Telegram: https://t.me/drakerelated
 #
 > A good book is like a conversation with a smart person. <br/>
 > ***Leo Tolstoy***
