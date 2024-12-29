@@ -1,5 +1,5 @@
 # 👋🏻 Hi, my name is **Elizaveta Spivak**!
-## I'm *Full-stack Developer* from Minsk.
+## I'm *Full-stack Developer*.
 
 ### Languages and Technologies 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
